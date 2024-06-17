@@ -126,7 +126,7 @@ from azure.mgmt.compute import ComputeManagementClient
 credential = ClientSecretCredential(
     tenant_id='031a3bbc-cf7c-4e2b-96ec-867555540a1c',
     client_id='c8143046-faf2-48b7-b373-eb12f5040cd5',
-    client_secret='vqP7Q~XOGUQIV9~c2KVwSORVMXNRq11_o~I8A'
+    client_secret=''
 )
 
 
