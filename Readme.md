@@ -35,4 +35,4 @@ This platform ensures seamless interaction and deployment, providing a comprehen
 
 ## Architecture
 
-![Untitled](images/Architecture.png)
+![Architecture](Images/Architecture.png)
